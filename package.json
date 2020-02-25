@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/chas0n2/client-referral#readme",
   "dependencies": {
-    "bootstrap": "^4.4.1"
+    "@popperjs/core": "^2.0.6",
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
   }
 }
